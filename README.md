@@ -1,4 +1,4 @@
-# mds3d
+# Mondes3D
 UE Mondes 3D faites en M1 Image et Son à l'Université de Bordeaux
 Un Readme contenant un cours rapport sur chaque TD est disponible dans chaque dossier.
 
@@ -20,4 +20,4 @@ Un Readme contenant un cours rapport sur chaque TD est disponible dans chaque do
 ![](https://cdn.discordapp.com/attachments/681788293477564427/681802935625056284/earth_night.png)
 ![](https://cdn.discordapp.com/attachments/691636286225776701/691637513609281567/terre_color.png)
 ### Normal Mapping
-![](https://cdn.discordapp.com/attachments/691636286225776701/691637522924699678/diffuse_normal.png
+![](https://cdn.discordapp.com/attachments/691636286225776701/691637522924699678/diffuse_normal.png)
