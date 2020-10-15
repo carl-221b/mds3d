@@ -10,6 +10,7 @@ $$\vec{N}=\vec{AC} X \vec{BC}$$
 La normale calculé de cette façon donne le résultat suivant :
 
 ![](https://cdn.discordapp.com/attachments/673856583033159681/673856623319711744/e1.corsse2_tw.png "tw AC X BC")
+
 On remarque que le maillage n'est pas vraiment lisse et que le traçage des triangles se voit beaucoup dans le résultat.
 Il est possible de remédier à cela en utilisant les coordonnées barycentriques pour calculer la normale.
 Pour ce faire on utilise les u et v calculés à partir de Möller-Trumbore afin de calculer la normale avec la formule suivante :
@@ -18,6 +19,7 @@ Où Normal(X) vaut la normale au point X
 1-u-v car il faut que $\lambda_1+\lambda_2+\lambda_3=1$ où  $\lambda_1$ et $\lambda_2$ correspondent à u et v.
 
 Avec les coordonnées barycentriques on obtient le resultat suivant pour le maillage "tw503.obj" :
+
 ![](https://cdn.discordapp.com/attachments/673856583033159681/673856644802936842/baricentre_tw503.png "tw 503 barycentre")
 
 Et le resultat suivant pour le maillage "tw.obj":
